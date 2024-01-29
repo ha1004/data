@@ -1,0 +1,91 @@
+{"data": [
+    {
+      "id":1,
+      "name":"FEJKA 페이카",
+      "info":"인조식물, 난초 화이트, 12 cm",
+      "img":"https://www.ikea.com/kr/ko/images/products/fejka-artificial-potted-plant-orchid-white__0901022_pe594660_s5.jpg",
+      "price":6900,
+      "category":"plants"
+    },
+    {
+      "id":2,
+      "name":"FEJKA 페이카",
+      "info":"인조식물, 실내외겸용 몬스테라, 12 cm",
+      "img":"https://www.ikea.com/kr/ko/images/products/fejka-artificial-potted-plant-in-outdoor-monstera__0959227_pe809440_s5.jpg",
+      "price":10900,
+      "category":"plants"
+    },
+    {
+      "id":2,
+      "name":"FEJKA 페이카",
+      "info":"인조식물, 실내외겸용 자단향, 19 cm",
+      "img":"https://www.ikea.com/kr/ko/images/products/fejka-artificial-potted-plant-in-outdoor-red-sandalwood__1273082_pe929846_s5.jpg?f=xs",
+      "price":69900,
+      "category":"plants"
+    },
+    {
+      "id":3,
+      "name":"PÄRLBAND 펠반드",
+      "info":"미니양초홀더, 10 cm",
+      "img":"https://www.ikea.com/ext/ingkadam/m/7449c989aee3f566/original/PH191407-crop001.jpg?f=xxs",
+      "price":7900,
+      "category":"candle"
+    },
+    {
+      "id":5,
+      "name":"SMÄLLSPIREA 스멜스피레아",
+      "info":"미니양초홀더, 유리/패턴, 4 cm",
+      "img":"https://www.ikea.com/ext/ingkadam/m/660ce9d5309a746/original/PH191955-crop001.jpg?f=xxs",
+      "price":2900,
+      "category":"candle"
+    },
+    {
+      "id":6,
+      "name":"VINTERFINT 빈테르핀트",
+      "info":"기둥모양 양초홀더 2종, 집 레드/화이트",
+      "img":"https://www.ikea.com/kr/ko/images/products/vinterfint-pillar-candle-holder-set-of-2-house-red-white__1155365_ph187720_s5.jpg?f=m",
+      "price":6900,
+      "category":"candle"
+    },
+    {
+      "id":7,
+      "name":"ROTSUND 롯순드",
+      "info":"거울, 화이트, 80 cm",
+      "img":"https://www.ikea.com/kr/ko/images/products/rotsund-mirror-white__0906349_pe624429_s5.jpg?f=xs",
+      "price":99900,
+      "category":"mirror"
+    },
+    {
+      "id":8,
+      "name":"LINDBYN 린드뷘",
+      "info":"거울, 화이트, 60x120 cm",
+      "img":"https://www.ikea.com/kr/ko/images/products/lindbyn-mirror-white__0986812_pe817332_s5.jpg?f=xs",
+      "price":69900,
+      "category":"mirror"
+    },
+    {
+      "id":9,
+      "name":"GRANVÅG 그란보그",
+      "info":"탁상거울, 핑크, 23x33 cm",
+      "img":"https://www.ikea.com/kr/ko/images/products/granvag-table-mirror-pink__1044396_pe842141_s5.jpg?f=xs",
+      "price":24900,
+      "category":"mirror"
+    },
+    {
+      "id":10,
+      "name":"TONSÄTTA 톤세타",
+      "info":"꽃병, 그레이, 27 cm",
+      "img":"https://www.ikea.com/kr/ko/images/products/tonsaetta-vase-grey__0915560_ph166717_s5.jpg?f=xs",
+      "price":34900,
+      "category":"vase"
+    },
+    {
+      "id":11,
+      "name":"RÄFFELBJÖRK 레펠비에르크",
+      "info":"꽃병, 화이트펄, 20 cm",
+      "img":"https://www.ikea.com/kr/ko/images/products/raeffelbjoerk-vase-mother-of-pearl-colour__1168200_pe891824_s5.jpg?f=xs",
+      "price":34900,
+      "category":"vase"
+    }
+  ]
+}
